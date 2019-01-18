@@ -16,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/18978909244/sxg-common-tool/issues"
   },
-  "homepage": "https://github.com/18978909244/sxg-common-tool#readme",
-  "devDependencies": {
-    "tern": "^0.23.0"
-  }
+  "homepage": "https://github.com/18978909244/sxg-common-tool#readme"
 }
