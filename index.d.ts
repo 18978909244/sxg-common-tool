@@ -1,9 +1,9 @@
-interface getAvg {
+interface fn {
     (arr : array) : number
 }
 
-interface getAvg {
-    getAvg:getAvg = getAvg
+interface main {
+    getAvg:fn = getAvg
 }
 
-module.exports = getAvg
+module.exports = main
